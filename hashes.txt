@@ -1,0 +1,7 @@
+ 
+CertUtil: comando -hashfile NON RIUSCITO: 0x800703ee (WIN32: 1006 ERROR_FILE_INVALID)
+CertUtil: Il volume corrispondente al file è stato alterato dall'esterno. Il file aperto non è più valido.
+CertUtil: comando -hashfile NON RIUSCITO: 0x800703ee (WIN32: 1006 ERROR_FILE_INVALID)
+CertUtil: Il volume corrispondente al file è stato alterato dall'esterno. Il file aperto non è più valido.
+CertUtil: comando -hashfile NON RIUSCITO: 0x800703ee (WIN32: 1006 ERROR_FILE_INVALID)
+CertUtil: Il volume corrispondente al file è stato alterato dall'esterno. Il file aperto non è più valido.
